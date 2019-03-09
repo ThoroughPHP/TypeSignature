@@ -1,9 +1,9 @@
 {
-    "name": "sevavietl/type-signature",
+    "name": "thorough-php/type-signature",
     "description": "Type signature generator for PHP",
     "type": "library",
     "require": {
-        "php": ">=7.1"
+        "php": ">=7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.3",
@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "TypeSignature\\": "src/"
+            "ThoroughPHP\\TypeSignature\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TypeSignature\\Test\\": "test/"
+            "ThoroughPHP\\TypeSignature\\Test\\": "test/"
         }
     },
     "license": "MIT",

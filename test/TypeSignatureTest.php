@@ -1,9 +1,9 @@
 <?php
 
-namespace TypeSignature\Test;
+namespace ThoroughPHP\TypeSignature\Test;
 
 use PHPUnit\Framework\TestCase;
-use TypeSignature\TypeSignature;
+use ThoroughPHP\TypeSignature\TypeSignature;
 
 final class TypeSignatureTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace TypeSignature;
+namespace ThoroughPHP\TypeSignature;
 
 final class TypeSignature
 {
